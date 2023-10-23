@@ -6,5 +6,8 @@
   "repository": "https://github.com/JohnDeveloperJ/Diamond-Cut-Casino",
   "author": "john j <143453887+JohnDeveloperJ@users.noreply.github.com>",
   "license": "y",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "openzeppelin-contracts": "^4.0.0"
+  }
 }
