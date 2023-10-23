@@ -9,5 +9,8 @@
   "private": false,
   "dependencies": {
     "openzeppelin-contracts": "^4.0.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.18.2"
   }
 }
