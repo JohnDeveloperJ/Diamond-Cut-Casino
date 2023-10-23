@@ -5,7 +5,7 @@
 
 Diamont-Cut- Cross-Chain Casino is an innovative decentralized casino that offers a secure and provably fair gaming experience across different blockchains. We are committed to transparency, fairness, and a top-notch user experience. MoonStar Casino brings together a range of exciting games while harnessing the benefits of decentralized, transparent, and provably fair gaming.
 
-## What Sets MoonStar Apart?
+## What Sets Diamond-Cut Apart?
 
 At Diamand=Cut Casino, we take pride in our commitment to providing the following unique features:
 
