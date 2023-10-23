@@ -1,6 +1,7 @@
 # Diamond-Cut-Casino
 
-![Uploading spinning_diamond.gif…]()
+![diamond-rotating](https://github.com/JohnDeveloperJ/Diamond-Cut-Casino/assets/143453887/86bac99c-0340-4eaa-beab-ea215db8ad9e)
+
 
 
 
