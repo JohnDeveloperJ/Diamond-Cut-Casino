@@ -1,6 +1,7 @@
 # Diamond-Cut-Casino
 
-![diamond-rotating](https://github.com/JohnDeveloperJ/Diamond-Cut-Casino/assets/143453887/86bac99c-0340-4eaa-beab-ea215db8ad9e)
+![Uploading theworldeater_Dimond_Cut_Casino_Landing_page_webpage_close_up__d148b473-56c8-456a-8897-24998901c0f7.png…]()
+
 
 
 
