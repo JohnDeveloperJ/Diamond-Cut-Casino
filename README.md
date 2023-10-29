@@ -1,7 +1,8 @@
 ---
 
 ## Diamond-Cut-Casino
-![Diamond-Cut Casino Logo](https://cdn.midjourney.com/b7e2e18c-a8fe-4c2c-8f20-0c466a11a759/0_1.png)
+![Diamond-Cut Casino Logo]![theworldeater_golden_DCC_LOGO_looking_forward_black_orange_and_c6bea702-4cf0-4bfb-972c-1423294a339d](https://github.com/JohnDeveloperJ/Diamond-Cut-Casino/assets/143453887/2c1e99a5-242a-4675-afcc-1c47e7d5b336)
+)
 
 ### Diamond-Cut Cross-Chain Casino: Elevate Your Gaming Experience 
 Delve into the future of decentralized gaming with Diamond-Cut Cross-Chain Casino. We’re redefining the essence of gaming, intertwining the thrill of traditional casinos with the trustworthiness of blockchain. Every roll, flip, and bet assures transparency, fairness, and an unparalleled user experience.
